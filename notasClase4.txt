@@ -10,7 +10,18 @@ Recomendaciones comentarios clase:
 Vengo del futuro para recomendarles 2 cosas
 
 La primera: Apartir de aquí no usen las mismas variables, nombres de clases o Id´s que los profesores, esto les ayudara a que comprendan mejor su propio codigo y evitara que solo tomen una especie de dictado.
-
+ 
 La segunda: Hagan todos los retos que les sugieran y traten de llegar de distintas formas al mismo resultado que los profesores y adapten los nuevos temas a su propio codigo, esto ayuda bastante a entender mejor los temas.
 
 ----------------------------------------------
+
+<h2>Elige a tu mascota</h2>
+        <input type="text"/>
+        <ul>
+            <li>Hipodoge: Agua💧</li>
+            <li>Capipepo: Tierra🌱</li>
+            <li>Ratigueya: Fuego🔥</li>
+            <li>Langostelvis: Agua💧 y Fuego🔥</li>
+            <li>Tucapalma: Agua💧 y Tierra🌱</li>
+            <li>Pydos: Tierra🌱 y Fuego🔥</li>
+        </ul>
