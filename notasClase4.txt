@@ -25,3 +25,4 @@ La segunda: Hagan todos los retos que les sugieran y traten de llegar de distint
             <li>Tucapalma: Agua💧 y Tierra🌱</li>
             <li>Pydos: Tierra🌱 y Fuego🔥</li>
         </ul>
+
