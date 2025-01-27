@@ -1,0 +1,6 @@
+TIPOS DE INPUT QUE NO CONOCIA
+
+input type checkbox
+input type radio
+
+para vincular un label con un input el for del label debe tener el mismo nombre del id del input

@@ -1,0 +1,3 @@
+notasClase6
+
+si agrego un addEventListener con un evento load a window, puedo poner la el script el el head y este no se ejecutara hasta que carge el HTML (o algo asi)

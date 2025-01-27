@@ -18,19 +18,21 @@
         <input type="radio" name="mascota" id="capipepo"/>
         <label for="ratigueya">Ratigueya</label>
         <input type="radio" name="mascota" id="ratigueya"/>
-        <button>Seleccionar</button>
+        <button id="botonMascota">Seleccionar mascota</button>
+        <!-- <input type="text" id="cosa"/>
+        <p id="parrafo"></p> -->
     </section>     
 
     <section>
-        <p>A tu mascota le quedan <span>3</span> vidas</p>
-        <p>A la mascota del enemigo le quedn <span>3</span> vidas</p>
+        <p>A tu <span id="nombreMascotaJugador">mascota</span> le quedan <span>3</span> vidas</p>
+        <p>A la <span id="nombreMascotaEnemigo">mascota</span> del enemigo le quedn <span>3</span> vidas</p>
 
     <section id="seleccionAtaque">
         <h2>Elige tu ataque</h2>
         <p>
-            <button>Fuego🔥</button>
-            <button>Agua💧</button>
-            <button>Tierra🌱</button>
+            <button id="botonAtaqueFuego">Fuego🔥</button>
+            <button id="botonAtaqueAgua">Agua💧</button>
+            <button id="botonAtaqueTierra">Tierra🌱</button>
         </p>
 
     </section>
@@ -42,9 +44,11 @@
 
     <section id="reiniciar">
         <h2>Quieres reiniciar?</h2>
-        <button>Reiniciar</button>
+        <button id="botonReiniciar">Reiniciar</button>
     </section>
 
+
+    <script src="./js/mokepon.js"></script>
 </body>
 </html>
 
